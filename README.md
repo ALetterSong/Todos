@@ -1,12 +1,10 @@
 
 ### Doing (主要为未来一个月的计划)
 
-完善 MPlayer ~2017.6.15  
 阅读 *你不知道的JavaScript上* ~2017.7.15  
 阅读 *JavaScript语言精粹* ~2017.7.15  
 学习瀑布流 http://www.imooc.com/learn/101 ~2017.7.15  
 学习慕课网焦点轮播图  ~2017.7.15  
-实现 Promises/A+ ~2017.6.15  
 
 ### Todo （主要为未来半年的计划）
 
@@ -22,6 +20,7 @@
 音乐播放器 [MPlayer]()   
 MVVM 库 [Binding]()  
 实现 AMD 模块 加载器[loaderjs]()  
+实现 Promises/A+ ~2017.6.15  
 
 ### Sleeping (暂时待定的或者一年后的计划)
 
