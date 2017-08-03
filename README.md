@@ -27,7 +27,7 @@
 
 实现五子棋AI ~2017.12  
 
-### Almost done
+### Done
 
 音乐播放器 [MPlayer]()   
 
