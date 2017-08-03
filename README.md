@@ -17,6 +17,10 @@
 
 ### Todo 
 
+学习 Linux ~2017.12
+
+学习 Jenkins 和 Docker ~ 2017.12
+
 图片处理库(打算基于Canvas或CSS实现裁剪翻转滤镜等功能) ~2017.8  
 
 基于Vue2的UI组件库(Material Design 或 Ant Design) ~2017.12  
