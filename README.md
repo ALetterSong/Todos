@@ -33,11 +33,11 @@
 
 ### Done
 
-音乐播放器 [MPlayer]()   
+音乐播放器 [MPlayer](https://github.com/bigggge/MPlayer)   
 
-MVVM 库 [Binding]()  
+MVVM 库 [Binding](https://github.com/bigggge/Binding)  
 
-实现 AMD 模块 加载器[loaderjs]()  
+实现 AMD 模块加载器 [loaderjs](https://github.com/ALetterSong/loaderjs)  
 
 实现 Promises/A+ ~2017.6.15  
 
