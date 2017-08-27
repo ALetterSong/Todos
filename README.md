@@ -1,15 +1,13 @@
 
 ### Doing 
 
-阅读 *计算机网络：自顶向下方法* ~2017.8.25  
-
 理解 Angular 1 ~2017.10
 
-依赖注入 ~2017.9  
+依赖注入 ~2017.9.25  
 
-富文本编辑器 ~2017.9  
+富文本编辑器 ~2017.9.25  
 
-模板引擎库 ~2017.9 
+模板引擎库 ~2017.9.25 
 
 阅读 *算法第四版* ~2017.11  
 
@@ -48,6 +46,11 @@ MVVM 库 [Binding](https://github.com/bigggge/Binding)
 阅读 *你不知道的JavaScript上* ~2017.7.1  
 
 阅读 *JavaScript语言精粹* ~2017.7.1  
+
+阅读 *计算机网络：自顶向下方法* ~2017.8.25  
+
+基于 WebSocket 的前端远程实时 LOG 工具 [AirLog](https://github.com/bigggge/AirLog) ~2017.8.27     
+
 
 ### Sleeping 
 
